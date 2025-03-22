@@ -8,3 +8,4 @@ wordcloud
 joblib
 regex
 tqdm
+imbalanced-learn
