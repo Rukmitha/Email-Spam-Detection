@@ -1,7 +1,10 @@
 streamlit
-scikit-learn  
-pandas  
-numpy  
-nltk 
+scikit-learn
+pandas
+numpy
+nltk
 matplotlib
-seaborn
+wordcloud
+joblib
+regex
+tqdm
