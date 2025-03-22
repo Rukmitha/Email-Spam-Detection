@@ -1,5 +1,4 @@
-Python 3.x  
-scikit-learn  
+ scikit-learn  
 pandas  
 numpy  
 nltk 
